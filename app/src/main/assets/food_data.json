@@ -1,0 +1,58 @@
+[
+  {
+    "imageFile": "food1",
+    "foodName": "Crunchy Roll",
+    "detail": "โรลนี้มีทั้ง แซลมอน และ ปลาไหล รสขาติออกหวานๆ แป้งเทมปุระกรุบกรอบ คำใหญ่กำลังฟิน",
+    "description": "ZURU Japanese Delicious บางนา - ศรีนครินทร์",
+    "price": "  150 บาท",
+    "reviewScore": "star_4point"
+  },
+  {
+    "imageFile": "food2",
+    "foodName": "ซูซิรวม",
+    "detail": "อาหารญี่ปุ่นพอดีคำ ราคาสบายกระเป๋า แต่อัดแน่นด้วยคุณภาพและรสชาติ! คัดสรรความพรีเมียม พร้อมสูตรต้นตำรับสุดประณีต",
+    "description": "ไข่หวานบ้านซูชิ จามจุรีแสควร์",
+    "price": "เริ่มคำละ 10 บาท",
+    "reviewScore": "star_5point"
+  },
+  {
+    "imageFile": "food3",
+    "foodName": "Mini Salmon Treasure Box",
+    "detail": "แซลมอนนำมาสับหมักซอสรสชาติกลมกล่อม โรยด้วยไข่กุ้งเม็ดใหญ่ ทานคู่กับสาหร่ายเทมปุระที่เสิร์ฟมาด้วยกัน",
+    "description": "Sushi Mori Sathorn Square",
+    "price": "599 บาท",
+    "reviewScore": "star_3point"
+  },
+  {
+    "imageFile": "food4",
+    "foodName": "Shichi Suki",
+    "detail": "เป็นสุกี้สไตล์คันไซที่มีความเข้มข้นเป็นเอกลักษณ์ เมนูนี้มีความพิเศษที่ “น้ำซุป” ที่เชฟคิดเองค่ะ รสชาติและกลิ่นจะไม่เหมือนที่อื่นๆ ความพีคคือใช้เนื้อวากิวเอห้า! เนื้อนุ่มละมุนมากกก ยิ่งทานคู่กับน้ำซอสเข้มข้นและไข่แดงเยิ้มๆ",
+    "description": "Shichi Japanese Restaurant ราชพฤกษ์",
+    "price": "450 บาท",
+    "reviewScore":"star_3point"
+  },
+  {
+    "imageFile": "food5",
+    "foodName": "Unagi Sushi",
+    "detail": " เป็นแบบโรลที่มีUnagiอยู่ข้างบน ข้างในมีไข่หวาน อาโวคาโด โดยรวมรสชาติอรอ่ยใช้ได้ ",
+    "description": "Sousaku",
+    "price": "350 บาท'",
+    "reviewScore": "star_4point"
+  },
+  {
+    "imageFile": "food6",
+    "foodName": "Tsujiri Roll",
+    "detail": "Tsujiri Roll ซึ่งจะเป็นโรลช็อคโกแลต สอดไส้ด้วย Kyoto Matcha Cream 100% แล้วก็ Azuki หรือถั่วแดงบดนั่นเอง ซึ่งก็อร่อยแบบรสชาติเบาๆ นุ่มๆ ",
+    "description": "Kyo Roll En (Kyo Cafe & Meal) เกตเวย์ เอกมัย",
+    "price": "175 บาท",
+    "reviewScore": "star_2point"
+  },
+  {
+    "imageFile": "food7",
+    "foodName": "ไอติม 2 สกู๊ป & โคน fruity pebbles",
+    "detail": "ไอศกรีมวานิลลาผสมกับบราวนี่และผสมผสานความลงตัวกับช็อคโกแลตชิบคุกกี้ รสนี้อร่อยมากคะ ไอติมรส Original Oreo ว่าเป็น signature รสชาติคล้ายๆไอศกรีมคุกกี้แอนด์ครีมคะ ",
+    "description": "Emack and Bolio's สยามเซ็นเตอร์ ",
+    "price": "260 บาท",
+    "reviewScore": "star_3point"
+  }
+]
